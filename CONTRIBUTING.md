@@ -9,7 +9,7 @@ Before you create a new Issue:
 
 1. Please make sure there is no [open issue](https://github.com/octokit/plugin-rest-endpoint-methods.js/issues?utf8=%E2%9C%93&q=is%3Aissue) yet.
 2. If it is a bug report, include the steps to reproduce the issue and please create a reproducible test case on [runkit.com](https://runkit.com/). Example: https://runkit.com/gr2m/5aa034f1440b420012a6eebf
-3. If it is a feature request, please share the motivation for the new feature, what alternatives you tried, and how you would implement it.
+3. If it is a feature request, please share the motivation for the new feature, what alternatives you tried, and how you would q implement it.
 4. Please include links to the corresponding github documentation.
 
 ## Setup the repository locally
